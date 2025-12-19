@@ -164,7 +164,7 @@ Audio and video inputs are designed for **recording and transcription**, not jus
 * Large typography
 * Symbols and icons
 * Transparent or dark ghost background
-
+ 
 Typical use:
 
 * Live transcription snippets
